@@ -10,7 +10,7 @@ The dataset used in this project can be found on Kaggle: [Face Mask Detection Da
 To get started with this project:
 
 1. Clone this repository to your local machine.
-2. Ensure you have Jupyter Notebook downloaded and running.
+2. Ensure you have Jupyter Notebook downloaded.
 3. Install the required dependencies.
 4. Download the "Face Mask Detection Dataset" and place it in the designated directory.
 5. Open and run the Jupyter Notebook to train and evaluate the model.
